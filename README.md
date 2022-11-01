@@ -6,6 +6,9 @@
 ![chapoliso GitHub stats](https://github-readme-stats.vercel.app/api?username=chapoliso&show_icons=true&theme=ocean_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapoliso)](https://github.com/anuraghazra/github-readme-stats)
 
+![snake gif](https://github.com/chapoliso/chapoliso)blob/output/github-contribution-grid-snake.svg)
+
+
 ### Aprendendo no dia a dia
 
 <div style="display: inline_block"><br/>
@@ -16,5 +19,7 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
+
+
 
 ### 🤚 Aprendendo e vivendo com tecnologia
