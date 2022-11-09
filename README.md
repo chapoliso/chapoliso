@@ -22,6 +22,6 @@
 
 ### 🤚 Aprendendo e vivendo com tecnologia
 
- ![Snake animation](https://github.com/chapoliso)/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/chapoliso/blob/output/github-contribution-grid-snake.svg)
  
  
