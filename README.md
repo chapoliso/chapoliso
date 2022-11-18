@@ -6,6 +6,8 @@
 ![chapoliso GitHub stats](https://github-readme-stats.vercel.app/api?username=chapoliso&show_icons=true&theme=ocean_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapoliso)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@chapoliso's Holopin board](https://holopin.me/chapoliso)](https://holopin.io/@chapoliso)
+
 
 ### Aprendendo no dia a dia
 
@@ -22,6 +24,5 @@
 
 ### 🤚 Aprendendo e vivendo com tecnologia
 
- ![Snake animation](https://github.com/chapoliso/blob/output/github-contribution-grid-snake.svg)
- 
+
  
